@@ -11,9 +11,8 @@ body {
   width: 400px;
   padding: 25px 35px;
   position: absolute;
-  top: -18%;
-  left: 48%;
-  transform: translate(-50%, 50%);
+  top: 18%;
+  left: 35%;
   background: #fff;
   border-radius: 10px; 
 
